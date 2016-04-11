@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Continual location app</string>
     <string name="action_settings">Settings</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="UpdateTime">Update time</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="updatetime">Update time</string>
 </resources>
